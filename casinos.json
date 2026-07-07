@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "priority": 1,
+      "name": "Rooster.bet",
+      "logo_url": "rooster-bet.svg",
+      "bonus": "100% حتى  1,000$ + 100 لفة مجانية",
+      "features": "باقة ترحيبية موزعة على 4 إيداعات,كاش باك متدرّج حتى 20%,بطاقات ومحافظ إلكترونية وعملات مشفرة",
+      "cta_text": "العب الآن",
+      "cta_url": "https://roosterpartner.media/n1cke4aa98",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,EcoPayz,Paysafecard,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 2,
+      "name": "SpinsUp",
+      "logo_url": "spinsup.svg",
+      "bonus": "100% حتى  1,000$ + 100 لفة مجانية",
+      "features": "300 لفة مجانية عبر 4 مراحل,استرداد يومي وأسبوعي وشهري,تطبيق أندرويد + اختصار iPhone",
+      "cta_text": "العب الآن",
+      "cta_url": "https://roosterspartners.media/n1vfrfok9d",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin,EcoPayz,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 3,
+      "name": "FortunePlay",
+      "logo_url": "fortuneplay.svg",
+      "bonus": "100% حتى 1,000$ + 100 لفة مجانية",
+      "features": "عرض ترحيبي رباعي لبناء الرصيد تدريجيًا,1 CP لكل 20 يورو على السلوتس,MiFinity وMuchBetter مع البطاقات والكريبتو",
+      "cta_text": "العب الآن",
+      "cta_url": "https://mediaroosters.com/n1qpu2aibs",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin,EcoPayz,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 4,
+      "name": "Lucky7even",
+      "logo_url": "lucky7even.svg",
+      "bonus": "100% حتى 550$ + 50 لفة مجانية",
+      "features": "200 لفة مجانية عبر 4 إيداعات,برنامج ولاء من 9 مستويات,يدعم AstroPay والكريبتو",
+      "cta_text": "العب الآن",
+      "cta_url": "https://roosterpartners.media/n1knmbsejk",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 5,
+      "name": "LuckyVibe",
+      "logo_url": "luckyvibe.svg",
+      "bonus": "100% حتى  1,000$ + 100 لفة مجانية",
+      "features": "متجر مكافآت بالنقاط,10 مستويات ولاء مع كاش باك متكرر,APK للأندرويد + اختصار iPhone",
+      "cta_text": "العب الآن",
+      "cta_url": "https://roosters-partner.com/n1yuokfnto",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin,EcoPayz,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 6,
+      "name": "Spinjo",
+      "logo_url": "spinjo.svg",
+      "bonus": "100% حتى  1,000$ + 100 لفة مجانية",
+      "features": "300 لفة مجانية عبر 4 إيداعات,كاش باك ومكافآت نقدية عند الترقية,APK للأندرويد + اختصار iPhone",
+      "cta_text": "العب الآن",
+      "cta_url": "https://roosterspartners.com/n1p1pp8k3z",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    },
+    {
+      "priority": 7,
+      "name": "Playmojo",
+      "logo_url": "playmojo.svg",
+      "bonus": "100% حتى  1,000$ + 100 لفة مجانية",
+      "features": "300 لفة مجانية ضمن أول 4 إيداعات,جوائز نقدية فورية مع الترقية,بنك ومحافظ وكريبتو في منصة واحدة",
+      "cta_text": "العب الآن",
+      "cta_url": "https://rooster-partners.com/n1cghduiix",
+      "payment_methods": "Visa,Mastercard,Skrill,Neteller,Bitcoin,Ethereum,Litecoin,EcoPayz,Bank Transfer",
+      "accepts_players": "يقبل اللاعبين من {country}",
+      "enabled": true
+    }
+  ]
+}
